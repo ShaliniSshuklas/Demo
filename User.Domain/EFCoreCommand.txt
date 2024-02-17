@@ -1,0 +1,3 @@
+﻿Scaffold-DbContext "Data Source=SHALINI\SQLEXPRESS01;Initial Catalog=CAPEX;Persist Security Info=True;
+User ID=Shalu;Password=1234;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;
+TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Context -OutputDir Models
